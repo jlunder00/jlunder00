@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on:
+IntelliPat: [novelty search and other AI applications in patent law](console.intellipat.ai)
+Parsimony: [understanding language through trees](p7y.ai)
