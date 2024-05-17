@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm currently working on:    
 
-IntelliPat: [novelty search and other AI applications in patent law](console.intellipat.ai)    
-Parsimony: [understanding language through trees](p7y.ai)    
+IntelliPat: [novelty search and other AI applications in patent law](https://console.intellipat.ai)    
+Parsimony: [understanding language through trees](https://p7y.ai)    
