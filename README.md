@@ -19,4 +19,4 @@ I'm currently working on:
 IntelliPat: [novelty search and other AI applications in patent law](https://console.intellipat.ai)    
 Parsimony: [understanding language through trees](https://p7y.ai)    
 [Tree Matching Networks](https://github.com/jlunder00/Tree-Matching-Networks): Extending [https://github.com/Lin-Yijie/Graph-Matching-Networks](https://github.com/Lin-Yijie/Graph-Matching-Networks) to linguistic trees.   
-            - [Package for converting sentences into trees for for TMN](https://github.com/jlunder00/TMN_DataGen)
+  * [Package for converting sentences into trees for for TMN](https://github.com/jlunder00/TMN_DataGen)
